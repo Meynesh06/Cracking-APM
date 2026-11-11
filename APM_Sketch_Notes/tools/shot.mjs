@@ -1,0 +1,12 @@
+import { launch } from './browser.mjs';
+const [url, out, w='1280', h='800', dark='0', full='1'] = process.argv.slice(2);
+const b = await launch();
+const p = await b.newPage({ viewport: { width: +w, height: +h }, colorScheme: dark==='1' ? 'dark' : 'light', deviceScaleFactor: 1 });
+p.on('pageerror', e => console.error('PAGEERR', e.message));
+p.on('console', m => { if (m.type()==='error') console.error('CONSOLE', m.text()); });
+await p.goto(url, { waitUntil: 'networkidle' }).catch(e=>console.error(e.message));
+await p.waitForTimeout(800);
+await p.screenshot({ path: out, fullPage: full==='1' });
+const sw = await p.evaluate(() => [document.documentElement.scrollWidth, window.innerWidth]);
+console.log('scrollWidth/innerWidth', sw);
+await b.close();

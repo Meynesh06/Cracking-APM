@@ -1,0 +1,1 @@
+{"out": "plan price: Rs 499; base COGS is 24% of the price\nbase case                  COGS Rs  120   gross margin  76%\ntokens per task x2         COGS Rs  240   gross margin  52%\nprice per token -50%       COGS Rs   60   gross margin  88%\nadoption x2                COGS Rs  240   gross margin  52%\npower user, 120 summaries  COGS Rs  480   gross margin   4%\n", "err": ""}

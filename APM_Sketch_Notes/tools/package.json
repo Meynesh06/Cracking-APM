@@ -1,0 +1,27 @@
+{
+  "name": "dkfile-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "dkfile sketch-notes + video engine",
+  "dependencies": {
+    "@excalidraw/excalidraw": "0.18.0",
+    "@fontsource-variable/caveat": "5.3.0",
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "@fontsource-variable/nunito": "5.3.0",
+    "@fontsource/anton": "5.3.0",
+    "@fontsource/archivo-black": "5.3.0",
+    "@fontsource/bungee": "5.3.0",
+    "@fontsource/luckiest-guy": "5.3.0",
+    "@fontsource/permanent-marker": "5.3.0",
+    "esbuild": "0.28.2",
+    "markdown-it": "15.0.2",
+    "markdown-it-anchor": "10.0.0",
+    "markdown-it-mark": "4.0.0",
+    "playwright-core": "1.63.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "roughjs": "4.6.4",
+    "shiki": "4.4.3"
+  }
+}

@@ -1,0 +1,1 @@
+{"out": "threshold 0.9: blocked 2, fraud caught 1, wrongly blocked 1, missed 3, precision 0.50, recall 0.25\nthreshold 0.6: blocked 5, fraud caught 3, wrongly blocked 2, missed 1, precision 0.60, recall 0.75\n", "err": ""}

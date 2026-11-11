@@ -1,0 +1,1 @@
+{"out": "per-step 0.95, 1 steps: task succeeds 95%\nper-step 0.95, 3 steps: task succeeds 86%\nper-step 0.95, 5 steps: task succeeds 77%\nper-step 0.90, 1 steps: task succeeds 90%\nper-step 0.90, 3 steps: task succeeds 73%\nper-step 0.90, 5 steps: task succeeds 59%\nfive-step success of 60% needs about 90.3% per step\n", "err": ""}

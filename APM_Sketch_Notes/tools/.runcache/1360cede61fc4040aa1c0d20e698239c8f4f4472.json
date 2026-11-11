@@ -1,0 +1,1 @@
+{"out": "factual accuracy  80 ->  84  +4  ok\nformat            95 ->  96  +1  ok\nsafety            99 ->  99  +0  ok\ntone              90 ->  96  +6  ok\nlong answers      70 ->  64  -6  BLOCK\naverage          86.8 -> 87.8  +1.0\nrelease gate: FAIL | blocked by: long answers\n", "err": ""}

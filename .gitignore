@@ -1,0 +1,5 @@
+.DS_Store
+APM_Sketch_Notes/.venv/
+__pycache__/
+~$*
+.claude/

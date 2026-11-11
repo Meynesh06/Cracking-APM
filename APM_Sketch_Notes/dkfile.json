@@ -1,0 +1,28 @@
+{
+  "slug": "APM_Prep",
+  "title": "APM Prep Sketch Notes",
+  "description": "Sketchbook-style APM interview prep: AI products, the product thinking toolkit, estimation and case practice, with Excalidraw diagrams, real-run calculators and quiz cards.",
+  "course": "Crack the APM Role · Parts II–V",
+  "unit": "Chapter",
+  "units": "Chapters",
+  "tab": "Ch",
+  "source": "notes",
+  "source_count": 0,
+  "brand_html": "user·<span>metric</span>·ship",
+  "brand_sub": "APM prep sketch notes",
+  "sticker": "interview ready!",
+  "hero_html": "<span class=\"hl\">Think like a PM</span>, ship like a <span class=\"py\">builder</span>",
+  "sig_html": "Clarify first, structure out loud, and always close with the metric.",
+  "about_html": "Built from the reviewed <b>APM Prep Vault</b>: chapters 4 to 25 of <i>Crack the APM Role</i> (Parts II to V), which were drafted from the Sigma concept book, casebook and interview experiences, the XLRI casebook, Decode and Conquer, Cracking the PM Interview and the Sigma teardowns, then fact-checked. Every point of every vault note is on its page. Anything added on top is labelled <b>Beyond the notes</b>. The few Python blocks (guesstimates, scoring, unit economics) were really run, and their outputs are real. Press <i>copy for Excalidraw</i> under any drawing to remix it.",
+  "sir_label": "From the source notes",
+  "sir_short": "Source notes",
+  "shot_url": "local lab",
+  "shot_tag": "reproduced locally",
+  "code_tabs": {
+    "python": "Python"
+  },
+  "lab": {
+    "python": ".venv/bin/python",
+    "timeout": 120
+  }
+}

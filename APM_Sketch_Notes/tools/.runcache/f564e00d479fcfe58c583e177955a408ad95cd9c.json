@@ -1,0 +1,1 @@
+{"out": "step              users   from previous   from visit\nvisit           100,000               -       100.0%\nsign-up          12,000           12.0%        12.0%\nfirst order       5,400           45.0%         5.4%\nsecond order      2,160           40.0%         2.2%\nbiggest leak: sign-up (converts 12.0% of the step before)\n", "err": ""}

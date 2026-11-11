@@ -1,0 +1,1 @@
+{"out": "document: 300 pages x 500 words = 150,000 words\ndocument in tokens: about 200,000\nwindow (illustrative): 128,000 tokens\ndocument fills 156% of the window: it does not fit\npages that fit in one call: about 192\n", "err": ""}

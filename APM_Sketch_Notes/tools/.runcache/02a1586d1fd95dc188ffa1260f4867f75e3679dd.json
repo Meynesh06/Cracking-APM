@@ -1,0 +1,1 @@
+{"out": "help centre raw            : 8.2 GB, with index 12-16 GB\n1M chunks at 1,536 dims    : 6.1 GB raw\nlistings float32 / int8    : 461 GB / 115 GB\nfloat32 with index 1.5-2x  : 691-922 GB\ncopilot tokens a ticket    : 3,800, retrieved 79%\na month, input / total     : 3.5B / 3.8B\n", "err": ""}
